@@ -1,3 +1,4 @@
+#include <termios.h>
 #include <unistd.h>
 
 int main () {
